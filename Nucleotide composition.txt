@@ -1,0 +1,13 @@
+DNA molecule: NC_000002.12:c226799820-226731312 IRS1 [organism=Homo sapiens] [GeneID=3667] [chromosome=2]
+Length = 68509 base pairs
+Molecular Weight = 20725970,00 Daltons, single stranded
+Molecular Weight = 41540875,00 Daltons, double stranded
+G+C content = 40,92%
+A+T content = 59,08%
+
+Nucleotide  Number   Mol%
+    A        18855   27,52
+    C        13769   20,10
+    G        14263   20,82
+    T        21622   31,56
+
